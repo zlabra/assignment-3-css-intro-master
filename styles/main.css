@@ -50,11 +50,11 @@ a:focus {
 }
 
 a:hover {
-  color:#040c08; background-color: #C4C15C;
+  color: #040c08; background-color: #C4C15C;
 }
 
 a:active {
-  color:#0C2619; background-color: #C4C15C;
+  color: #0C2619; background-color: #C4C15C;
 }
 
 footer a:link {
@@ -70,9 +70,9 @@ footer a:focus {
 }
 
 footer a:hover {
-  color:#8A2E5A; background-color: #779aa7;
+  color: #8A2E5A; background-color: #779aa7;
 }
 
 footer a:active {
-  color:#850040; background-color: #779aa7;
+  color: #850040; background-color: #779aa7;
 }
